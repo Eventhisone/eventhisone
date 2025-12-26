@@ -35,13 +35,14 @@ fields_of_interests:
   ]
 technical_background:
   [
+    "Fullstack Software Engineer",
     "Software Engineer"
     "Junior Software Engineer",
     "Sofware Engineering Intern",
   ]
   
 currently_learning: ["Networking"]
-2025 Goals: ["Contribute to more open source projects"]
+2026 Goals: ["Contribute to more open source projects"]
 hobbies: ["Sewing", "Baking", "Gaming"]
 ```
   
